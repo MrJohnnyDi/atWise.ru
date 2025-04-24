@@ -1,9 +1,9 @@
 {
   "nav": {
-    "mission": "About",
-    "howItWorks": "How it works",
-    "mentors": "Mentors",
-    "principles": "Principles"
+    "mission": "О нас",
+    "howItWorks": "Как это работает",
+    "mentors": "Менторы",
+    "principles": "Принципы"
   },
   "hero": {
     "section": "About the Project",
